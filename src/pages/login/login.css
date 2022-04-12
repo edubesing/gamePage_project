@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap%27');
+
+.login-page {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    color: #D9D9D9;
+    font-size: 26px;
+    height: 100vh;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #121212;
+}
+
+.form-control {
+    background-color: #252525;
+    border-color: transparent;
+    font-size: 26px;
+    margin-bottom: 20px;
+    color: #D9D9D9;
+}
+
+.login-submit-button {
+    background-color: #3700B3;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 26px;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    font-weight: 200;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #D9D9D9;
+}
+
+.login-submit-button:hover{
+    color: #D9D9D9;
+    background-color: #5e1aff;
+}
+
+.form-group {
+    text-align: left;   
+}
+
+.texto-cadastro {
+    color: #775CB6;
+}
+
+a {
+    color: #775CB6;
+}
+
+.entrar-button{
+    background-color: #3700B3;
+    color: #D9D9D9;
+    border-color: transparent;
+    justify-content: center;
+}
+
+.entrar-button:hover {
+    color: #D9D9D9;
+    background-color: #5e1aff;    
+}

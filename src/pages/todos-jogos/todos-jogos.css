@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap%27');
+
+.todos-jogos-body {
+    background-color: #252525;
+}
+
+h1 {
+    color: #D9D9D9;
+    font-size: 60px;
+    text-align: left;
+    margin-bottom: 70px;
+}
+
+.container-jogos {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    color: #D9D9D9;
+
+    margin: 80px;
+    width: 100%;
+}
+
+@media (max-width: 800px) {
+    .container-jogos {
+        margin: 2vh;
+        width: 100%;
+    }
+    h1 {
+        font-size: 50px;
+        text-align: left;
+        margin: 30px;
+    }
+}
